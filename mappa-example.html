@@ -30,7 +30,7 @@ function setup(){
 
   myMap.onChange(drawMeteorites);
 
-  fill(70, 203, 31);
+  fill(255, 0, 0);
   stroke(100);
 
 }
@@ -49,7 +49,7 @@ function drawMeteorites() {
       const pos = myMap.latLngToPixel(latitude, longitude);
       let size = meteorites.getString(i, 'mass (g)');
       size = map(size, 558, 60000000, 1, 25) + myMap.zoom();
-      ellipse(pos.x, pos.y, size, size);
+      rect(pos.x, pos.y, size, size);
     }
   }
 }
