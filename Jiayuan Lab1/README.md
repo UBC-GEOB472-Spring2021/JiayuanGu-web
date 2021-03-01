@@ -1,4 +1,7 @@
-Hi! This is the first lab that I did for Geob 472!
+Hello! This is the first lab that I did for Geob 472!
+
+Link to the map:
+https://ubc-geob472-spring2021.github.io/JiayuanGu-web/Jiayuan%20Lab1/index.html
 
 Reflective Analysis:
 
@@ -9,4 +12,10 @@ The dominant color of my map is green because it correlates well to the theme of
 My map has two zoom levels to help me putting emphasis on what I want to present with my map. One zoom level is 8. On this zoom level, the parks, land and water are in lighter, less saturated colors. On the contrary, the color of highways and other features are more saturated. Features like schools and hospitals are in different colors. Since the data points are all within one city, my map needs to be zoomed in to zoom level 11 in order to view all of them. On this zoom level, the color of the parks, land and water are more saturated and darker. Features other than parks and greenspaces are changed into a very light purple. The opacity of the symbol that represents the data points is higher. This is because I want this zoom level to emphasize on the data points and the important features that provide context to the data. I also take consideration of the concept of color contrast because it can help separate “features from the surrounding elements and can instantly create emphasis and interest” (The Guide to Map Design, 47). On zoom level 11, there is more color contrast between the land and the ocean surrounding the land so that the land and the water features do not blend together. There is also more color contrast between the greenspaces and the land in order to create emphasis on parks. 
 
 <img width="866" alt="Screen Shot 2021-02-28 at 10 31 31 PM" src="https://user-images.githubusercontent.com/77517981/109460020-d1a33200-7a14-11eb-8f83-7fbb1c12ca67.png">
+
+Map Critique:
+
+I did a last-minute map critique with Riley. She said that she had to look at my map a little bit longer in order to understand the map. Therefore, I wrote a bit more in my reflective analysis hoping that it could help explaining the map. She also commented that she liked the halos around the tree-shape icons so that the overlapped ones could be seen. In addition, I responded to her map by suggesting her to add a simple legend since she is making a choropleth map.
+
+
 
