@@ -1,4 +1,4 @@
-Hello! This is the first lab that I did for Geob 472!
+Hello! This is my lab 1!
 
 Link to the map:
 https://ubc-geob472-spring2021.github.io/JiayuanGu-web/Jiayuan%20Lab1/index.html
