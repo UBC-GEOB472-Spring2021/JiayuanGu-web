@@ -1,7 +1,7 @@
 Hello! This is my lab 2! The title of my map is Airbnb Listings in Vancouver.
 
 
-Link to the map:https://ubc-geob472-spring2021.github.io/JiayuanGu-web/Jiayuan_Lab2/Lab2(1).html
+Link to the map: https://ubc-geob472-spring2021.github.io/JiayuanGu-web/Jiayuan_Lab2/Lab2.html
 
 Reflective Analysis:
 
